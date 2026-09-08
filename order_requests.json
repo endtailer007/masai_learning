@@ -1,0 +1,2502 @@
+[
+  {
+    "request_id": "dcae6e9f-5a73",
+    "product": "keyboard",
+    "quantity": 1
+  },
+  {
+    "request_id": "4a212290-730a",
+    "product": "laptop",
+    "quantity": 7
+  },
+  {
+    "request_id": "024115e4-5039",
+    "product": "printer",
+    "quantity": 9
+  },
+  {
+    "request_id": "fd4f6854-c1c1",
+    "product": "printer",
+    "quantity": 4
+  },
+  {
+    "request_id": "ab8755c5-b771",
+    "product": "laptop",
+    "quantity": 3
+  },
+  {
+    "request_id": "d76e0b6f-516e",
+    "product": "laptop",
+    "quantity": 6
+  },
+  {
+    "request_id": "183982d2-a17f",
+    "product": "laptop",
+    "quantity": 8
+  },
+  {
+    "request_id": "4a2a3e41-b068",
+    "product": "keyboard",
+    "quantity": -1
+  },
+  {
+    "request_id": "7a2f15f0-6193",
+    "product": "mouse",
+    "quantity": 0
+  },
+  {
+    "request_id": "0c98ae86-df6b",
+    "product": "laptop",
+    "quantity": 9
+  },
+  {
+    "request_id": "542297bb-f116",
+    "product": "keyboard",
+    "quantity": 7
+  },
+  {
+    "request_id": "268cdc62-f786",
+    "product": "keyboard",
+    "quantity": 10
+  },
+  {
+    "request_id": "feb9a31c-1655",
+    "product": "monitor",
+    "quantity": 0
+  },
+  {
+    "request_id": "0260d2cc-0778",
+    "product": "printer",
+    "quantity": 10
+  },
+  {
+    "request_id": "f1c41106-65e9",
+    "product": "keyboard",
+    "quantity": -1
+  },
+  {
+    "request_id": "5c66c458-3984",
+    "product": "mouse",
+    "quantity": 7
+  },
+  {
+    "request_id": "b779e1eb-ddd0",
+    "product": "laptop",
+    "quantity": 8
+  },
+  {
+    "request_id": "9f82af07-3eb6",
+    "product": "mouse",
+    "quantity": 0
+  },
+  {
+    "request_id": "a64108e7-2049",
+    "product": "monitor",
+    "quantity": -1
+  },
+  {
+    "request_id": "01b9a9d2-8c3e",
+    "product": "mouse",
+    "quantity": 9
+  },
+  {
+    "request_id": "ada09b93-1f1e",
+    "product": "monitor",
+    "quantity": 5
+  },
+  {
+    "request_id": "9985a520-f9ad",
+    "product": "laptop",
+    "quantity": 2
+  },
+  {
+    "request_id": "7dbb32c5-cd65",
+    "product": "keyboard",
+    "quantity": 2
+  },
+  {
+    "request_id": "f15ef81d-2542",
+    "product": "monitor",
+    "quantity": 2
+  },
+  {
+    "request_id": "21e5ba4f-e21c",
+    "product": "keyboard",
+    "quantity": 8
+  },
+  {
+    "request_id": "71874113-8c4f",
+    "product": "printer",
+    "quantity": 10
+  },
+  {
+    "request_id": "222c0ced-b958",
+    "product": "mouse",
+    "quantity": -2
+  },
+  {
+    "request_id": "b38b23fa-f9b6",
+    "product": "laptop",
+    "quantity": 6
+  },
+  {
+    "request_id": "f19f3e94-800a",
+    "product": "mouse",
+    "quantity": 1
+  },
+  {
+    "request_id": "1ce44f90-a69e",
+    "product": "keyboard",
+    "quantity": 0
+  },
+  {
+    "request_id": "e8c4d180-286e",
+    "product": "keyboard",
+    "quantity": 8
+  },
+  {
+    "request_id": "cd7c84db-c3a1",
+    "product": "printer",
+    "quantity": 8
+  },
+  {
+    "request_id": "72f0d03b-70fc",
+    "product": "mouse",
+    "quantity": 9
+  },
+  {
+    "request_id": "ff50b43f-aae2",
+    "product": "monitor",
+    "quantity": -2
+  },
+  {
+    "request_id": "211d941d-603b",
+    "product": "printer",
+    "quantity": -2
+  },
+  {
+    "request_id": "13c42972-30a5",
+    "product": "keyboard",
+    "quantity": 6
+  },
+  {
+    "request_id": "805dedb4-9dc3",
+    "product": "keyboard",
+    "quantity": 0
+  },
+  {
+    "request_id": "110b1947-a337",
+    "product": "printer",
+    "quantity": 2
+  },
+  {
+    "request_id": "042cb50c-6943",
+    "product": "laptop",
+    "quantity": 1
+  },
+  {
+    "request_id": "041f3188-2689",
+    "product": "mouse",
+    "quantity": 6
+  },
+  {
+    "request_id": "c95c97af-dba4",
+    "product": "monitor",
+    "quantity": 4
+  },
+  {
+    "request_id": "d38713cf-7f1e",
+    "product": "printer",
+    "quantity": 2
+  },
+  {
+    "request_id": "f68687e6-9961",
+    "product": "monitor",
+    "quantity": 10
+  },
+  {
+    "request_id": "cc00286c-580e",
+    "product": "keyboard",
+    "quantity": 0
+  },
+  {
+    "request_id": "48cd1665-f9a0",
+    "product": "keyboard",
+    "quantity": 2
+  },
+  {
+    "request_id": "c9fbaf41-e3d4",
+    "product": "keyboard",
+    "quantity": 4
+  },
+  {
+    "request_id": "7b025c66-3972",
+    "product": "monitor",
+    "quantity": 7
+  },
+  {
+    "request_id": "317bcf01-7334",
+    "product": "keyboard",
+    "quantity": 8
+  },
+  {
+    "request_id": "c65c50e1-b09a",
+    "product": "laptop",
+    "quantity": 3
+  },
+  {
+    "request_id": "399b8bf8-dbd8",
+    "product": "monitor",
+    "quantity": -2
+  },
+  {
+    "request_id": "ff52c1c9-dfc9",
+    "product": "laptop",
+    "quantity": -2
+  },
+  {
+    "request_id": "89817872-09f4",
+    "product": "mouse",
+    "quantity": 10
+  },
+  {
+    "request_id": "a3507ee8-a603",
+    "product": "monitor",
+    "quantity": 5
+  },
+  {
+    "request_id": "97675669-95a8",
+    "product": "mouse",
+    "quantity": 8
+  },
+  {
+    "request_id": "909fe130-04ca",
+    "product": "monitor",
+    "quantity": 0
+  },
+  {
+    "request_id": "ab9a6dca-18d9",
+    "product": "laptop",
+    "quantity": 2
+  },
+  {
+    "request_id": "620eecb0-5300",
+    "product": "keyboard",
+    "quantity": 2
+  },
+  {
+    "request_id": "06d9aac0-2787",
+    "product": "laptop",
+    "quantity": -2
+  },
+  {
+    "request_id": "8ecd106a-fe13",
+    "product": "laptop",
+    "quantity": 6
+  },
+  {
+    "request_id": "54f7ace6-7536",
+    "product": "printer",
+    "quantity": 5
+  },
+  {
+    "request_id": "07b1b552-053d",
+    "product": "keyboard",
+    "quantity": -2
+  },
+  {
+    "request_id": "170241fe-705f",
+    "product": "printer",
+    "quantity": 7
+  },
+  {
+    "request_id": "8d3cedc6-1b79",
+    "product": "keyboard",
+    "quantity": 5
+  },
+  {
+    "request_id": "ecf99501-2742",
+    "product": "printer",
+    "quantity": 4
+  },
+  {
+    "request_id": "eb306fae-6a5c",
+    "product": "laptop",
+    "quantity": 2
+  },
+  {
+    "request_id": "e2e0fde3-8ef5",
+    "product": "mouse",
+    "quantity": 10
+  },
+  {
+    "request_id": "89235598-2bbe",
+    "product": "printer",
+    "quantity": 6
+  },
+  {
+    "request_id": "8c738782-aa01",
+    "product": "mouse",
+    "quantity": 4
+  },
+  {
+    "request_id": "b2376427-ccda",
+    "product": "mouse",
+    "quantity": -2
+  },
+  {
+    "request_id": "6531ea62-64b6",
+    "product": "mouse",
+    "quantity": 10
+  },
+  {
+    "request_id": "919b0dc5-da81",
+    "product": "monitor",
+    "quantity": 4
+  },
+  {
+    "request_id": "d9261c1b-1408",
+    "product": "keyboard",
+    "quantity": 3
+  },
+  {
+    "request_id": "5de69dbb-1585",
+    "product": "keyboard",
+    "quantity": 10
+  },
+  {
+    "request_id": "47311401-7bdb",
+    "product": "monitor",
+    "quantity": 7
+  },
+  {
+    "request_id": "e820fd6e-e92c",
+    "product": "laptop",
+    "quantity": 7
+  },
+  {
+    "request_id": "30075d9f-9e5e",
+    "product": "mouse",
+    "quantity": 6
+  },
+  {
+    "request_id": "ac9eb6fd-a6cb",
+    "product": "mouse",
+    "quantity": 2
+  },
+  {
+    "request_id": "01ee0035-2c29",
+    "product": "keyboard",
+    "quantity": 5
+  },
+  {
+    "request_id": "d73d2665-677a",
+    "product": "keyboard",
+    "quantity": 2
+  },
+  {
+    "request_id": "918e3ac6-49d4",
+    "product": "keyboard",
+    "quantity": 2
+  },
+  {
+    "request_id": "9df0adcd-bd88",
+    "product": "printer",
+    "quantity": -2
+  },
+  {
+    "request_id": "5f5955fb-27ee",
+    "product": "laptop",
+    "quantity": 10
+  },
+  {
+    "request_id": "e9f98d6d-b376",
+    "product": "mouse",
+    "quantity": -2
+  },
+  {
+    "request_id": "e549c022-848f",
+    "product": "keyboard",
+    "quantity": 9
+  },
+  {
+    "request_id": "6ae6f356-874b",
+    "product": "printer",
+    "quantity": -1
+  },
+  {
+    "request_id": "000320f9-c7c7",
+    "product": "monitor",
+    "quantity": -2
+  },
+  {
+    "request_id": "2f9637ac-eb8d",
+    "product": "monitor",
+    "quantity": 1
+  },
+  {
+    "request_id": "4eb83abe-10b3",
+    "product": "mouse",
+    "quantity": 3
+  },
+  {
+    "request_id": "6c834578-dd4e",
+    "product": "printer",
+    "quantity": -1
+  },
+  {
+    "request_id": "d5960743-07f6",
+    "product": "keyboard",
+    "quantity": 10
+  },
+  {
+    "request_id": "32cf3462-efa0",
+    "product": "keyboard",
+    "quantity": 5
+  },
+  {
+    "request_id": "ae303425-6208",
+    "product": "monitor",
+    "quantity": 9
+  },
+  {
+    "request_id": "cb619359-c71d",
+    "product": "laptop",
+    "quantity": 0
+  },
+  {
+    "request_id": "84785d62-966b",
+    "product": "printer",
+    "quantity": 4
+  },
+  {
+    "request_id": "cbb0febd-d9f4",
+    "product": "monitor",
+    "quantity": -2
+  },
+  {
+    "request_id": "f5c6c49c-32ef",
+    "product": "monitor",
+    "quantity": 0
+  },
+  {
+    "request_id": "9efba41b-3c7e",
+    "product": "monitor",
+    "quantity": -1
+  },
+  {
+    "request_id": "f8a6a3bb-4b0c",
+    "product": "printer",
+    "quantity": -1
+  },
+  {
+    "request_id": "17465448-5d04",
+    "product": "mouse",
+    "quantity": 0
+  },
+  {
+    "request_id": "02bf5519-afaa",
+    "product": "laptop",
+    "quantity": 9
+  },
+  {
+    "request_id": "ee735151-0fec",
+    "product": "printer",
+    "quantity": 1
+  },
+  {
+    "request_id": "04638c87-57d7",
+    "product": "laptop",
+    "quantity": 5
+  },
+  {
+    "request_id": "5f0c756f-699d",
+    "product": "monitor",
+    "quantity": 3
+  },
+  {
+    "request_id": "a57814bc-fd4c",
+    "product": "laptop",
+    "quantity": -2
+  },
+  {
+    "request_id": "66ea1492-8a0c",
+    "product": "monitor",
+    "quantity": 4
+  },
+  {
+    "request_id": "c7aa12e2-9341",
+    "product": "laptop",
+    "quantity": 10
+  },
+  {
+    "request_id": "770cb699-bb23",
+    "product": "printer",
+    "quantity": 0
+  },
+  {
+    "request_id": "501e1cb8-accd",
+    "product": "monitor",
+    "quantity": 9
+  },
+  {
+    "request_id": "0812523c-305d",
+    "product": "printer",
+    "quantity": 8
+  },
+  {
+    "request_id": "d20c9337-95a4",
+    "product": "printer",
+    "quantity": 4
+  },
+  {
+    "request_id": "cb600a2a-13af",
+    "product": "keyboard",
+    "quantity": 0
+  },
+  {
+    "request_id": "bf68fa76-e31e",
+    "product": "mouse",
+    "quantity": 10
+  },
+  {
+    "request_id": "288c0ac7-bec7",
+    "product": "laptop",
+    "quantity": 7
+  },
+  {
+    "request_id": "044e433d-17cb",
+    "product": "keyboard",
+    "quantity": 8
+  },
+  {
+    "request_id": "dd74c87b-b030",
+    "product": "monitor",
+    "quantity": 1
+  },
+  {
+    "request_id": "24d0b32f-9378",
+    "product": "keyboard",
+    "quantity": 7
+  },
+  {
+    "request_id": "f1142dcd-5130",
+    "product": "laptop",
+    "quantity": 9
+  },
+  {
+    "request_id": "42ba6458-2bd1",
+    "product": "mouse",
+    "quantity": 0
+  },
+  {
+    "request_id": "f25158e2-d53a",
+    "product": "laptop",
+    "quantity": 4
+  },
+  {
+    "request_id": "b79e434b-1dac",
+    "product": "monitor",
+    "quantity": 4
+  },
+  {
+    "request_id": "bfe98bac-6012",
+    "product": "mouse",
+    "quantity": 10
+  },
+  {
+    "request_id": "2b8bdbda-1e33",
+    "product": "monitor",
+    "quantity": 9
+  },
+  {
+    "request_id": "2fa25ddf-705f",
+    "product": "keyboard",
+    "quantity": -2
+  },
+  {
+    "request_id": "9db36f12-4a53",
+    "product": "laptop",
+    "quantity": 1
+  },
+  {
+    "request_id": "5f8cb1b3-d69d",
+    "product": "keyboard",
+    "quantity": 4
+  },
+  {
+    "request_id": "92e19d7d-d4e5",
+    "product": "printer",
+    "quantity": 7
+  },
+  {
+    "request_id": "9e295b16-b9e6",
+    "product": "printer",
+    "quantity": 6
+  },
+  {
+    "request_id": "68d5490d-dadf",
+    "product": "laptop",
+    "quantity": 4
+  },
+  {
+    "request_id": "6c1afa15-dee2",
+    "product": "keyboard",
+    "quantity": 1
+  },
+  {
+    "request_id": "e2c952a6-fb96",
+    "product": "laptop",
+    "quantity": 1
+  },
+  {
+    "request_id": "cbf0eee2-58a5",
+    "product": "mouse",
+    "quantity": 6
+  },
+  {
+    "request_id": "83ce476c-24fb",
+    "product": "keyboard",
+    "quantity": -2
+  },
+  {
+    "request_id": "d756f4e0-f479",
+    "product": "keyboard",
+    "quantity": 10
+  },
+  {
+    "request_id": "37bd0947-1f68",
+    "product": "mouse",
+    "quantity": 7
+  },
+  {
+    "request_id": "64556af5-afd3",
+    "product": "mouse",
+    "quantity": 5
+  },
+  {
+    "request_id": "59795a14-0beb",
+    "product": "laptop",
+    "quantity": 0
+  },
+  {
+    "request_id": "cfb749a9-c276",
+    "product": "printer",
+    "quantity": 6
+  },
+  {
+    "request_id": "4b52c21d-7454",
+    "product": "laptop",
+    "quantity": 3
+  },
+  {
+    "request_id": "656231d9-b940",
+    "product": "laptop",
+    "quantity": 5
+  },
+  {
+    "request_id": "229b6a15-5280",
+    "product": "mouse",
+    "quantity": 6
+  },
+  {
+    "request_id": "11405645-0b65",
+    "product": "mouse",
+    "quantity": 4
+  },
+  {
+    "request_id": "4d84a261-e4b5",
+    "product": "printer",
+    "quantity": 9
+  },
+  {
+    "request_id": "33d9cad7-ef1c",
+    "product": "printer",
+    "quantity": 3
+  },
+  {
+    "request_id": "ae8fc721-d156",
+    "product": "monitor",
+    "quantity": 1
+  },
+  {
+    "request_id": "27d7d5d8-c3d5",
+    "product": "laptop",
+    "quantity": 2
+  },
+  {
+    "request_id": "4018410e-d362",
+    "product": "keyboard",
+    "quantity": 6
+  },
+  {
+    "request_id": "050c51f6-ee82",
+    "product": "laptop",
+    "quantity": 9
+  },
+  {
+    "request_id": "55b17f65-02c8",
+    "product": "mouse",
+    "quantity": 1
+  },
+  {
+    "request_id": "e157c298-78f1",
+    "product": "mouse",
+    "quantity": -1
+  },
+  {
+    "request_id": "ab601f97-d9ee",
+    "product": "mouse",
+    "quantity": 3
+  },
+  {
+    "request_id": "fad29173-15fd",
+    "product": "laptop",
+    "quantity": 1
+  },
+  {
+    "request_id": "fef95e41-ba74",
+    "product": "mouse",
+    "quantity": 8
+  },
+  {
+    "request_id": "3191791c-b184",
+    "product": "laptop",
+    "quantity": 8
+  },
+  {
+    "request_id": "ec5fff70-45c2",
+    "product": "monitor",
+    "quantity": -1
+  },
+  {
+    "request_id": "855c9fdf-0680",
+    "product": "laptop",
+    "quantity": 4
+  },
+  {
+    "request_id": "559c206f-87a6",
+    "product": "mouse",
+    "quantity": 10
+  },
+  {
+    "request_id": "c7ddad75-08ea",
+    "product": "keyboard",
+    "quantity": 5
+  },
+  {
+    "request_id": "849ea1d9-bbb4",
+    "product": "monitor",
+    "quantity": 1
+  },
+  {
+    "request_id": "c9902f82-28a9",
+    "product": "printer",
+    "quantity": 1
+  },
+  {
+    "request_id": "9888cea8-9a22",
+    "product": "keyboard",
+    "quantity": 0
+  },
+  {
+    "request_id": "e1228cd7-cb97",
+    "product": "monitor",
+    "quantity": 0
+  },
+  {
+    "request_id": "3953ac7b-0ede",
+    "product": "keyboard",
+    "quantity": -2
+  },
+  {
+    "request_id": "a649944e-a7a2",
+    "product": "monitor",
+    "quantity": 9
+  },
+  {
+    "request_id": "94c4d031-cdf7",
+    "product": "monitor",
+    "quantity": 10
+  },
+  {
+    "request_id": "4b0bb0c5-33e6",
+    "product": "monitor",
+    "quantity": 8
+  },
+  {
+    "request_id": "a67b6930-2361",
+    "product": "mouse",
+    "quantity": 9
+  },
+  {
+    "request_id": "cb494bf0-bee8",
+    "product": "laptop",
+    "quantity": 9
+  },
+  {
+    "request_id": "244d5bed-68c6",
+    "product": "keyboard",
+    "quantity": -1
+  },
+  {
+    "request_id": "780e849f-2009",
+    "product": "laptop",
+    "quantity": 10
+  },
+  {
+    "request_id": "0150cd26-eda7",
+    "product": "laptop",
+    "quantity": 8
+  },
+  {
+    "request_id": "208c3a60-7b1a",
+    "product": "mouse",
+    "quantity": 7
+  },
+  {
+    "request_id": "5a268d04-ba8b",
+    "product": "laptop",
+    "quantity": -1
+  },
+  {
+    "request_id": "46511e85-a5af",
+    "product": "printer",
+    "quantity": -2
+  },
+  {
+    "request_id": "c5e0ceb3-5eb3",
+    "product": "printer",
+    "quantity": 2
+  },
+  {
+    "request_id": "a29ea628-6e12",
+    "product": "printer",
+    "quantity": 7
+  },
+  {
+    "request_id": "846ad0b6-d4aa",
+    "product": "monitor",
+    "quantity": -1
+  },
+  {
+    "request_id": "45e2f8dd-13b5",
+    "product": "keyboard",
+    "quantity": 9
+  },
+  {
+    "request_id": "3795bb27-1f72",
+    "product": "laptop",
+    "quantity": 3
+  },
+  {
+    "request_id": "34058c9d-1720",
+    "product": "monitor",
+    "quantity": 9
+  },
+  {
+    "request_id": "0a6e118d-8061",
+    "product": "mouse",
+    "quantity": 7
+  },
+  {
+    "request_id": "0b3cfa4d-1bde",
+    "product": "monitor",
+    "quantity": -2
+  },
+  {
+    "request_id": "82de8e15-922a",
+    "product": "monitor",
+    "quantity": 9
+  },
+  {
+    "request_id": "2c38b62c-6d76",
+    "product": "laptop",
+    "quantity": -1
+  },
+  {
+    "request_id": "063ccafc-ff78",
+    "product": "laptop",
+    "quantity": 2
+  },
+  {
+    "request_id": "64fb28ef-e558",
+    "product": "keyboard",
+    "quantity": 0
+  },
+  {
+    "request_id": "e2c31746-9525",
+    "product": "mouse",
+    "quantity": -2
+  },
+  {
+    "request_id": "9d607655-9108",
+    "product": "keyboard",
+    "quantity": -2
+  },
+  {
+    "request_id": "8da54474-3dc7",
+    "product": "laptop",
+    "quantity": -1
+  },
+  {
+    "request_id": "e8ffcb41-ca9f",
+    "product": "printer",
+    "quantity": 7
+  },
+  {
+    "request_id": "3331413c-6d22",
+    "product": "laptop",
+    "quantity": 10
+  },
+  {
+    "request_id": "db1c9ad8-b360",
+    "product": "printer",
+    "quantity": 1
+  },
+  {
+    "request_id": "7e9970e3-64a8",
+    "product": "printer",
+    "quantity": 8
+  },
+  {
+    "request_id": "e10153c3-1d0c",
+    "product": "laptop",
+    "quantity": 2
+  },
+  {
+    "request_id": "e3f051a2-6b34",
+    "product": "laptop",
+    "quantity": -2
+  },
+  {
+    "request_id": "79c4784f-9c4c",
+    "product": "monitor",
+    "quantity": 4
+  },
+  {
+    "request_id": "c1108148-9589",
+    "product": "mouse",
+    "quantity": 7
+  },
+  {
+    "request_id": "1ff359e4-29ef",
+    "product": "mouse",
+    "quantity": 4
+  },
+  {
+    "request_id": "e9a9ac44-5a1b",
+    "product": "laptop",
+    "quantity": 0
+  },
+  {
+    "request_id": "f5e0b02b-a7b5",
+    "product": "laptop",
+    "quantity": 2
+  },
+  {
+    "request_id": "f99371a5-7d2d",
+    "product": "laptop",
+    "quantity": 9
+  },
+  {
+    "request_id": "1fa415f9-0fe2",
+    "product": "laptop",
+    "quantity": -1
+  },
+  {
+    "request_id": "909e7a6b-6766",
+    "product": "mouse",
+    "quantity": 1
+  },
+  {
+    "request_id": "2aa0a95b-4529",
+    "product": "monitor",
+    "quantity": 1
+  },
+  {
+    "request_id": "d46812d0-9a1a",
+    "product": "laptop",
+    "quantity": 1
+  },
+  {
+    "request_id": "94486acf-2d76",
+    "product": "keyboard",
+    "quantity": 2
+  },
+  {
+    "request_id": "d9554b9e-abd5",
+    "product": "printer",
+    "quantity": 8
+  },
+  {
+    "request_id": "eaf376a6-0e64",
+    "product": "printer",
+    "quantity": 5
+  },
+  {
+    "request_id": "205f5264-b797",
+    "product": "monitor",
+    "quantity": 2
+  },
+  {
+    "request_id": "266f31fd-b409",
+    "product": "monitor",
+    "quantity": 5
+  },
+  {
+    "request_id": "98a054b6-160e",
+    "product": "printer",
+    "quantity": 5
+  },
+  {
+    "request_id": "00df485d-a4e2",
+    "product": "printer",
+    "quantity": 1
+  },
+  {
+    "request_id": "43205a92-e5c9",
+    "product": "monitor",
+    "quantity": 4
+  },
+  {
+    "request_id": "5afa6993-61f1",
+    "product": "laptop",
+    "quantity": 10
+  },
+  {
+    "request_id": "b225746a-f963",
+    "product": "printer",
+    "quantity": -2
+  },
+  {
+    "request_id": "e480c0dd-3975",
+    "product": "keyboard",
+    "quantity": 7
+  },
+  {
+    "request_id": "b7c89d45-ce05",
+    "product": "monitor",
+    "quantity": -2
+  },
+  {
+    "request_id": "e62791eb-8c77",
+    "product": "laptop",
+    "quantity": 0
+  },
+  {
+    "request_id": "0f64ea9f-95d2",
+    "product": "keyboard",
+    "quantity": 5
+  },
+  {
+    "request_id": "cd3d3561-524d",
+    "product": "monitor",
+    "quantity": 7
+  },
+  {
+    "request_id": "db4d1307-8e35",
+    "product": "mouse",
+    "quantity": 8
+  },
+  {
+    "request_id": "12a2d56f-df1b",
+    "product": "keyboard",
+    "quantity": 0
+  },
+  {
+    "request_id": "f1f38727-76b4",
+    "product": "printer",
+    "quantity": 10
+  },
+  {
+    "request_id": "90165b39-4f25",
+    "product": "keyboard",
+    "quantity": 7
+  },
+  {
+    "request_id": "d3f3827b-2f71",
+    "product": "monitor",
+    "quantity": -2
+  },
+  {
+    "request_id": "0892cf6b-e010",
+    "product": "monitor",
+    "quantity": 3
+  },
+  {
+    "request_id": "8490bcf3-03b9",
+    "product": "monitor",
+    "quantity": 5
+  },
+  {
+    "request_id": "5b5d3ea3-ca4c",
+    "product": "laptop",
+    "quantity": 4
+  },
+  {
+    "request_id": "eee640b2-2ca0",
+    "product": "mouse",
+    "quantity": 3
+  },
+  {
+    "request_id": "4934cbe6-0197",
+    "product": "monitor",
+    "quantity": 2
+  },
+  {
+    "request_id": "8a19e98a-68a1",
+    "product": "laptop",
+    "quantity": -2
+  },
+  {
+    "request_id": "c72b4d64-b509",
+    "product": "keyboard",
+    "quantity": 0
+  },
+  {
+    "request_id": "3c2dd896-9221",
+    "product": "printer",
+    "quantity": 3
+  },
+  {
+    "request_id": "0759fd47-a3e3",
+    "product": "keyboard",
+    "quantity": 9
+  },
+  {
+    "request_id": "7f3474ea-52a7",
+    "product": "mouse",
+    "quantity": 5
+  },
+  {
+    "request_id": "ef1011a1-dcdd",
+    "product": "mouse",
+    "quantity": 8
+  },
+  {
+    "request_id": "43bd4934-fb86",
+    "product": "keyboard",
+    "quantity": 7
+  },
+  {
+    "request_id": "51c70698-722d",
+    "product": "printer",
+    "quantity": 8
+  },
+  {
+    "request_id": "a5cc1226-9940",
+    "product": "monitor",
+    "quantity": 7
+  },
+  {
+    "request_id": "feb5156a-7938",
+    "product": "printer",
+    "quantity": 3
+  },
+  {
+    "request_id": "ab2ccbc7-a010",
+    "product": "laptop",
+    "quantity": 0
+  },
+  {
+    "request_id": "1dbc4fa6-6f12",
+    "product": "printer",
+    "quantity": 9
+  },
+  {
+    "request_id": "dda150a9-6599",
+    "product": "printer",
+    "quantity": 5
+  },
+  {
+    "request_id": "c3932d49-98db",
+    "product": "laptop",
+    "quantity": 9
+  },
+  {
+    "request_id": "b1ba0a71-2291",
+    "product": "printer",
+    "quantity": 5
+  },
+  {
+    "request_id": "d82c52bf-b831",
+    "product": "monitor",
+    "quantity": 7
+  },
+  {
+    "request_id": "c834f7c2-cc18",
+    "product": "monitor",
+    "quantity": 10
+  },
+  {
+    "request_id": "0188d35d-01cf",
+    "product": "monitor",
+    "quantity": -1
+  },
+  {
+    "request_id": "b5524808-67c9",
+    "product": "printer",
+    "quantity": 10
+  },
+  {
+    "request_id": "e2f76936-4612",
+    "product": "monitor",
+    "quantity": -1
+  },
+  {
+    "request_id": "5b3b294a-efb3",
+    "product": "laptop",
+    "quantity": 4
+  },
+  {
+    "request_id": "ef8cd2c8-eef6",
+    "product": "monitor",
+    "quantity": 8
+  },
+  {
+    "request_id": "7bece156-71f1",
+    "product": "monitor",
+    "quantity": 2
+  },
+  {
+    "request_id": "e3a6b6e0-fc87",
+    "product": "mouse",
+    "quantity": 6
+  },
+  {
+    "request_id": "b027002a-0f67",
+    "product": "keyboard",
+    "quantity": 9
+  },
+  {
+    "request_id": "bf6fd62d-b273",
+    "product": "monitor",
+    "quantity": 0
+  },
+  {
+    "request_id": "3074605e-b3b3",
+    "product": "mouse",
+    "quantity": 0
+  },
+  {
+    "request_id": "2827567b-c400",
+    "product": "printer",
+    "quantity": 10
+  },
+  {
+    "request_id": "700992f6-9f3b",
+    "product": "keyboard",
+    "quantity": 8
+  },
+  {
+    "request_id": "ce85e61e-058f",
+    "product": "printer",
+    "quantity": 0
+  },
+  {
+    "request_id": "fb7ce110-f6b5",
+    "product": "mouse",
+    "quantity": -2
+  },
+  {
+    "request_id": "8a9fcfe4-3cc4",
+    "product": "mouse",
+    "quantity": -1
+  },
+  {
+    "request_id": "61f41717-4bb1",
+    "product": "laptop",
+    "quantity": 5
+  },
+  {
+    "request_id": "ff36c5bd-3ce5",
+    "product": "laptop",
+    "quantity": 1
+  },
+  {
+    "request_id": "ebcd773a-392e",
+    "product": "mouse",
+    "quantity": 6
+  },
+  {
+    "request_id": "4d99fbd9-2a22",
+    "product": "printer",
+    "quantity": 9
+  },
+  {
+    "request_id": "a508d456-5838",
+    "product": "mouse",
+    "quantity": -2
+  },
+  {
+    "request_id": "545e4eb0-2603",
+    "product": "printer",
+    "quantity": 9
+  },
+  {
+    "request_id": "80fcab82-cdae",
+    "product": "printer",
+    "quantity": 1
+  },
+  {
+    "request_id": "48393f96-0c33",
+    "product": "printer",
+    "quantity": 4
+  },
+  {
+    "request_id": "3e08cdc4-ea9a",
+    "product": "keyboard",
+    "quantity": 6
+  },
+  {
+    "request_id": "4a61a44e-7dc5",
+    "product": "mouse",
+    "quantity": 6
+  },
+  {
+    "request_id": "e9b275d9-705f",
+    "product": "monitor",
+    "quantity": 9
+  },
+  {
+    "request_id": "bea11bea-32c3",
+    "product": "monitor",
+    "quantity": 4
+  },
+  {
+    "request_id": "9d2b4425-5f0b",
+    "product": "printer",
+    "quantity": 8
+  },
+  {
+    "request_id": "e784f9a1-2aac",
+    "product": "laptop",
+    "quantity": 4
+  },
+  {
+    "request_id": "7f6c9858-0103",
+    "product": "printer",
+    "quantity": -2
+  },
+  {
+    "request_id": "1b83e075-1d12",
+    "product": "laptop",
+    "quantity": 10
+  },
+  {
+    "request_id": "91dff04a-edfc",
+    "product": "laptop",
+    "quantity": 1
+  },
+  {
+    "request_id": "a6b0bb02-5a7e",
+    "product": "mouse",
+    "quantity": 6
+  },
+  {
+    "request_id": "33184dca-b61f",
+    "product": "keyboard",
+    "quantity": 7
+  },
+  {
+    "request_id": "dda7233c-913e",
+    "product": "monitor",
+    "quantity": 10
+  },
+  {
+    "request_id": "54509160-6263",
+    "product": "mouse",
+    "quantity": 8
+  },
+  {
+    "request_id": "efd726c2-2b30",
+    "product": "monitor",
+    "quantity": -2
+  },
+  {
+    "request_id": "d5bc1e57-4717",
+    "product": "mouse",
+    "quantity": -2
+  },
+  {
+    "request_id": "4a0557a4-917d",
+    "product": "printer",
+    "quantity": 5
+  },
+  {
+    "request_id": "9cab4470-9fa2",
+    "product": "laptop",
+    "quantity": 9
+  },
+  {
+    "request_id": "979d5edb-af47",
+    "product": "laptop",
+    "quantity": 1
+  },
+  {
+    "request_id": "eb10dd6c-1ece",
+    "product": "monitor",
+    "quantity": 5
+  },
+  {
+    "request_id": "78c30c06-24fe",
+    "product": "mouse",
+    "quantity": 5
+  },
+  {
+    "request_id": "ec8be32f-07e3",
+    "product": "mouse",
+    "quantity": 5
+  },
+  {
+    "request_id": "b8e7ab62-698b",
+    "product": "laptop",
+    "quantity": 8
+  },
+  {
+    "request_id": "f10c91ec-d977",
+    "product": "keyboard",
+    "quantity": -2
+  },
+  {
+    "request_id": "fbbac09a-716b",
+    "product": "keyboard",
+    "quantity": 8
+  },
+  {
+    "request_id": "2bad1e16-d5ac",
+    "product": "mouse",
+    "quantity": 8
+  },
+  {
+    "request_id": "65d49c11-54b0",
+    "product": "mouse",
+    "quantity": -2
+  },
+  {
+    "request_id": "c1a6792b-a388",
+    "product": "keyboard",
+    "quantity": 9
+  },
+  {
+    "request_id": "0c460fd5-e7e4",
+    "product": "keyboard",
+    "quantity": 1
+  },
+  {
+    "request_id": "12f4a2e7-eb06",
+    "product": "mouse",
+    "quantity": 9
+  },
+  {
+    "request_id": "0c548e2a-2906",
+    "product": "monitor",
+    "quantity": -1
+  },
+  {
+    "request_id": "44a7dc83-bfcb",
+    "product": "keyboard",
+    "quantity": 8
+  },
+  {
+    "request_id": "1a399724-e933",
+    "product": "keyboard",
+    "quantity": 5
+  },
+  {
+    "request_id": "a98d4c83-425a",
+    "product": "laptop",
+    "quantity": 1
+  },
+  {
+    "request_id": "bc3678bf-7cd6",
+    "product": "mouse",
+    "quantity": -2
+  },
+  {
+    "request_id": "e1ac0422-5857",
+    "product": "keyboard",
+    "quantity": -1
+  },
+  {
+    "request_id": "e0568d55-3def",
+    "product": "laptop",
+    "quantity": 7
+  },
+  {
+    "request_id": "8506f9fa-6854",
+    "product": "mouse",
+    "quantity": -1
+  },
+  {
+    "request_id": "5a348486-7a4a",
+    "product": "monitor",
+    "quantity": 7
+  },
+  {
+    "request_id": "dbc31786-5f75",
+    "product": "laptop",
+    "quantity": 5
+  },
+  {
+    "request_id": "404c40b3-50e6",
+    "product": "laptop",
+    "quantity": 6
+  },
+  {
+    "request_id": "762458f3-613d",
+    "product": "keyboard",
+    "quantity": 2
+  },
+  {
+    "request_id": "c75b9c3b-243e",
+    "product": "printer",
+    "quantity": 0
+  },
+  {
+    "request_id": "4f52a41d-72e3",
+    "product": "printer",
+    "quantity": 6
+  },
+  {
+    "request_id": "7b0f1ace-60ca",
+    "product": "mouse",
+    "quantity": -1
+  },
+  {
+    "request_id": "2021ffa3-13fa",
+    "product": "laptop",
+    "quantity": 10
+  },
+  {
+    "request_id": "5cd0e964-6186",
+    "product": "monitor",
+    "quantity": 9
+  },
+  {
+    "request_id": "7c5e8473-5066",
+    "product": "monitor",
+    "quantity": 3
+  },
+  {
+    "request_id": "2f2aba98-d5ec",
+    "product": "keyboard",
+    "quantity": 0
+  },
+  {
+    "request_id": "0433b923-e1b2",
+    "product": "monitor",
+    "quantity": -2
+  },
+  {
+    "request_id": "c5f23ff6-62a4",
+    "product": "printer",
+    "quantity": 1
+  },
+  {
+    "request_id": "efd6152d-22c4",
+    "product": "mouse",
+    "quantity": 6
+  },
+  {
+    "request_id": "790347bd-47d4",
+    "product": "mouse",
+    "quantity": 2
+  },
+  {
+    "request_id": "34f53560-d582",
+    "product": "printer",
+    "quantity": 0
+  },
+  {
+    "request_id": "6ab3443b-6d49",
+    "product": "keyboard",
+    "quantity": 7
+  },
+  {
+    "request_id": "739f2e87-8a6f",
+    "product": "mouse",
+    "quantity": 7
+  },
+  {
+    "request_id": "7da9f5ad-1ecb",
+    "product": "monitor",
+    "quantity": 5
+  },
+  {
+    "request_id": "2c7284d2-cf08",
+    "product": "mouse",
+    "quantity": 5
+  },
+  {
+    "request_id": "ad47a71e-852b",
+    "product": "keyboard",
+    "quantity": -2
+  },
+  {
+    "request_id": "34bb47cb-6874",
+    "product": "mouse",
+    "quantity": 4
+  },
+  {
+    "request_id": "79b0673a-d825",
+    "product": "monitor",
+    "quantity": 1
+  },
+  {
+    "request_id": "b3b3a9f7-5f56",
+    "product": "laptop",
+    "quantity": 1
+  },
+  {
+    "request_id": "74d47e21-c8c8",
+    "product": "monitor",
+    "quantity": 10
+  },
+  {
+    "request_id": "d71796f1-d094",
+    "product": "mouse",
+    "quantity": 9
+  },
+  {
+    "request_id": "e74861b3-c0e2",
+    "product": "printer",
+    "quantity": 7
+  },
+  {
+    "request_id": "150b88ae-8d31",
+    "product": "laptop",
+    "quantity": 3
+  },
+  {
+    "request_id": "93e30fab-71dc",
+    "product": "printer",
+    "quantity": 7
+  },
+  {
+    "request_id": "96c8cb27-f701",
+    "product": "monitor",
+    "quantity": 7
+  },
+  {
+    "request_id": "e8b44dd0-3c23",
+    "product": "monitor",
+    "quantity": 6
+  },
+  {
+    "request_id": "4aba3f49-2007",
+    "product": "mouse",
+    "quantity": 5
+  },
+  {
+    "request_id": "c4458fcd-5dd6",
+    "product": "laptop",
+    "quantity": 1
+  },
+  {
+    "request_id": "e787e4c4-6985",
+    "product": "printer",
+    "quantity": 4
+  },
+  {
+    "request_id": "3ec22135-8b80",
+    "product": "printer",
+    "quantity": 0
+  },
+  {
+    "request_id": "2cf4cc27-07bc",
+    "product": "printer",
+    "quantity": -1
+  },
+  {
+    "request_id": "31890282-a655",
+    "product": "printer",
+    "quantity": 0
+  },
+  {
+    "request_id": "74e1ef5a-f4fe",
+    "product": "printer",
+    "quantity": 2
+  },
+  {
+    "request_id": "ab78cb2d-09a7",
+    "product": "laptop",
+    "quantity": 5
+  },
+  {
+    "request_id": "7e2cdcae-096f",
+    "product": "keyboard",
+    "quantity": 9
+  },
+  {
+    "request_id": "5d3a7835-4263",
+    "product": "monitor",
+    "quantity": 10
+  },
+  {
+    "request_id": "53970a87-36d1",
+    "product": "laptop",
+    "quantity": 5
+  },
+  {
+    "request_id": "1217972c-89cc",
+    "product": "printer",
+    "quantity": 5
+  },
+  {
+    "request_id": "1c3711bf-3b6b",
+    "product": "printer",
+    "quantity": 0
+  },
+  {
+    "request_id": "9f23ff72-398e",
+    "product": "laptop",
+    "quantity": 9
+  },
+  {
+    "request_id": "36d1a8a8-7842",
+    "product": "monitor",
+    "quantity": 0
+  },
+  {
+    "request_id": "fbd8da01-ca24",
+    "product": "laptop",
+    "quantity": 6
+  },
+  {
+    "request_id": "05d0861a-a567",
+    "product": "laptop",
+    "quantity": 7
+  },
+  {
+    "request_id": "9a2f1469-f1c5",
+    "product": "monitor",
+    "quantity": 7
+  },
+  {
+    "request_id": "be20828b-a36c",
+    "product": "mouse",
+    "quantity": 8
+  },
+  {
+    "request_id": "5e8b1666-815f",
+    "product": "keyboard",
+    "quantity": -1
+  },
+  {
+    "request_id": "2540ea0c-99aa",
+    "product": "printer",
+    "quantity": 3
+  },
+  {
+    "request_id": "e9616e10-ae17",
+    "product": "laptop",
+    "quantity": 7
+  },
+  {
+    "request_id": "5bb726e1-d589",
+    "product": "monitor",
+    "quantity": 10
+  },
+  {
+    "request_id": "db202ef5-2e30",
+    "product": "monitor",
+    "quantity": 1
+  },
+  {
+    "request_id": "b141263a-44ca",
+    "product": "printer",
+    "quantity": 9
+  },
+  {
+    "request_id": "f02ef095-98de",
+    "product": "monitor",
+    "quantity": 3
+  },
+  {
+    "request_id": "09e2df5a-1a23",
+    "product": "monitor",
+    "quantity": 8
+  },
+  {
+    "request_id": "984c4e91-1f90",
+    "product": "printer",
+    "quantity": -1
+  },
+  {
+    "request_id": "298e3776-0c28",
+    "product": "mouse",
+    "quantity": -2
+  },
+  {
+    "request_id": "fa0bd813-ee89",
+    "product": "keyboard",
+    "quantity": 10
+  },
+  {
+    "request_id": "980c024a-0f88",
+    "product": "mouse",
+    "quantity": 2
+  },
+  {
+    "request_id": "23d27bb9-0544",
+    "product": "monitor",
+    "quantity": 8
+  },
+  {
+    "request_id": "1e6a6dec-b245",
+    "product": "printer",
+    "quantity": 9
+  },
+  {
+    "request_id": "835f9ffa-18fd",
+    "product": "monitor",
+    "quantity": 6
+  },
+  {
+    "request_id": "58437b70-fd75",
+    "product": "keyboard",
+    "quantity": 2
+  },
+  {
+    "request_id": "2546541e-4750",
+    "product": "monitor",
+    "quantity": 2
+  },
+  {
+    "request_id": "13780e89-838a",
+    "product": "keyboard",
+    "quantity": -2
+  },
+  {
+    "request_id": "2a9d3d5c-3718",
+    "product": "keyboard",
+    "quantity": 7
+  },
+  {
+    "request_id": "ddc0895a-9c2d",
+    "product": "laptop",
+    "quantity": -2
+  },
+  {
+    "request_id": "49e9a84d-4b29",
+    "product": "printer",
+    "quantity": 0
+  },
+  {
+    "request_id": "e360dc44-00d8",
+    "product": "monitor",
+    "quantity": 5
+  },
+  {
+    "request_id": "6d6aa881-a6d3",
+    "product": "laptop",
+    "quantity": 4
+  },
+  {
+    "request_id": "5fbb5318-cca0",
+    "product": "keyboard",
+    "quantity": 5
+  },
+  {
+    "request_id": "e889e2a1-f9f1",
+    "product": "mouse",
+    "quantity": 7
+  },
+  {
+    "request_id": "dce98c1b-3b1d",
+    "product": "printer",
+    "quantity": 2
+  },
+  {
+    "request_id": "749f7429-8b36",
+    "product": "monitor",
+    "quantity": 9
+  },
+  {
+    "request_id": "b4a1e934-9303",
+    "product": "printer",
+    "quantity": 1
+  },
+  {
+    "request_id": "d1afde5c-4851",
+    "product": "monitor",
+    "quantity": 0
+  },
+  {
+    "request_id": "f9d8021a-2bc8",
+    "product": "keyboard",
+    "quantity": 2
+  },
+  {
+    "request_id": "dfa19ca2-ab73",
+    "product": "laptop",
+    "quantity": 4
+  },
+  {
+    "request_id": "d4fbf79d-a7ef",
+    "product": "printer",
+    "quantity": 3
+  },
+  {
+    "request_id": "755cfe21-252c",
+    "product": "laptop",
+    "quantity": 6
+  },
+  {
+    "request_id": "6f43fea5-4063",
+    "product": "printer",
+    "quantity": 2
+  },
+  {
+    "request_id": "654646b6-2ba0",
+    "product": "keyboard",
+    "quantity": 5
+  },
+  {
+    "request_id": "a37a6002-84f1",
+    "product": "mouse",
+    "quantity": 1
+  },
+  {
+    "request_id": "5561ee78-f7a7",
+    "product": "printer",
+    "quantity": 6
+  },
+  {
+    "request_id": "9a4f02a9-ca5c",
+    "product": "mouse",
+    "quantity": -1
+  },
+  {
+    "request_id": "5134f6f2-3db3",
+    "product": "printer",
+    "quantity": 8
+  },
+  {
+    "request_id": "27917dca-fffb",
+    "product": "laptop",
+    "quantity": 10
+  },
+  {
+    "request_id": "f031c704-a890",
+    "product": "mouse",
+    "quantity": 9
+  },
+  {
+    "request_id": "f3f9764f-2cd5",
+    "product": "mouse",
+    "quantity": 4
+  },
+  {
+    "request_id": "8f3daf9d-b62a",
+    "product": "printer",
+    "quantity": 10
+  },
+  {
+    "request_id": "31759266-78e0",
+    "product": "keyboard",
+    "quantity": 0
+  },
+  {
+    "request_id": "20821300-7a92",
+    "product": "monitor",
+    "quantity": 7
+  },
+  {
+    "request_id": "ac7aaa46-1089",
+    "product": "printer",
+    "quantity": 2
+  },
+  {
+    "request_id": "f282eef3-ca55",
+    "product": "printer",
+    "quantity": 1
+  },
+  {
+    "request_id": "aeefe021-c2a9",
+    "product": "printer",
+    "quantity": 10
+  },
+  {
+    "request_id": "e715a0c6-d0cd",
+    "product": "mouse",
+    "quantity": 1
+  },
+  {
+    "request_id": "c1f54824-a1f6",
+    "product": "mouse",
+    "quantity": 0
+  },
+  {
+    "request_id": "fb47be31-4bbb",
+    "product": "mouse",
+    "quantity": -1
+  },
+  {
+    "request_id": "a7a3a272-99e9",
+    "product": "printer",
+    "quantity": 7
+  },
+  {
+    "request_id": "e236b7c3-6b57",
+    "product": "laptop",
+    "quantity": 6
+  },
+  {
+    "request_id": "26d2de58-f44b",
+    "product": "printer",
+    "quantity": 8
+  },
+  {
+    "request_id": "6dc309db-f409",
+    "product": "monitor",
+    "quantity": 1
+  },
+  {
+    "request_id": "f36e42ea-e69b",
+    "product": "mouse",
+    "quantity": 8
+  },
+  {
+    "request_id": "6f69652e-496d",
+    "product": "mouse",
+    "quantity": -1
+  },
+  {
+    "request_id": "c534d56c-270f",
+    "product": "printer",
+    "quantity": 1
+  },
+  {
+    "request_id": "1d5598a8-7a98",
+    "product": "monitor",
+    "quantity": 2
+  },
+  {
+    "request_id": "59be47aa-6617",
+    "product": "keyboard",
+    "quantity": 5
+  },
+  {
+    "request_id": "4163ff1c-2b88",
+    "product": "printer",
+    "quantity": 6
+  },
+  {
+    "request_id": "6d1831e3-3689",
+    "product": "mouse",
+    "quantity": 7
+  },
+  {
+    "request_id": "47c3763a-50b6",
+    "product": "laptop",
+    "quantity": 8
+  },
+  {
+    "request_id": "0622d073-5831",
+    "product": "mouse",
+    "quantity": 8
+  },
+  {
+    "request_id": "836a1022-3dd9",
+    "product": "keyboard",
+    "quantity": -1
+  },
+  {
+    "request_id": "87d4b996-7be2",
+    "product": "printer",
+    "quantity": 9
+  },
+  {
+    "request_id": "94003785-c806",
+    "product": "keyboard",
+    "quantity": 6
+  },
+  {
+    "request_id": "5d631a80-574d",
+    "product": "keyboard",
+    "quantity": 10
+  },
+  {
+    "request_id": "10c5b651-077d",
+    "product": "keyboard",
+    "quantity": -1
+  },
+  {
+    "request_id": "c43a8a40-e8fd",
+    "product": "laptop",
+    "quantity": 5
+  },
+  {
+    "request_id": "c3a1a3a6-954b",
+    "product": "printer",
+    "quantity": 9
+  },
+  {
+    "request_id": "297c954d-a96b",
+    "product": "monitor",
+    "quantity": -1
+  },
+  {
+    "request_id": "d73d84ea-2fd9",
+    "product": "monitor",
+    "quantity": 10
+  },
+  {
+    "request_id": "9586ea33-48f5",
+    "product": "keyboard",
+    "quantity": 8
+  },
+  {
+    "request_id": "7614e482-5468",
+    "product": "laptop",
+    "quantity": 6
+  },
+  {
+    "request_id": "b763dfd3-1c63",
+    "product": "printer",
+    "quantity": 2
+  },
+  {
+    "request_id": "f3274e2a-cdb6",
+    "product": "laptop",
+    "quantity": 1
+  },
+  {
+    "request_id": "a7083e0a-96ac",
+    "product": "laptop",
+    "quantity": 10
+  },
+  {
+    "request_id": "62edfbb2-47a8",
+    "product": "printer",
+    "quantity": 10
+  },
+  {
+    "request_id": "c4b5fe81-957e",
+    "product": "laptop",
+    "quantity": 8
+  },
+  {
+    "request_id": "f2f19421-1501",
+    "product": "keyboard",
+    "quantity": 2
+  },
+  {
+    "request_id": "1d958d9c-df93",
+    "product": "laptop",
+    "quantity": 9
+  },
+  {
+    "request_id": "e857ac15-ce09",
+    "product": "printer",
+    "quantity": 1
+  },
+  {
+    "request_id": "793cecf2-76ec",
+    "product": "laptop",
+    "quantity": 1
+  },
+  {
+    "request_id": "288b454e-67cf",
+    "product": "monitor",
+    "quantity": 9
+  },
+  {
+    "request_id": "a5a8b8a2-7952",
+    "product": "keyboard",
+    "quantity": 0
+  },
+  {
+    "request_id": "66affc53-3144",
+    "product": "laptop",
+    "quantity": -2
+  },
+  {
+    "request_id": "a330d430-c970",
+    "product": "keyboard",
+    "quantity": 7
+  },
+  {
+    "request_id": "31ff82c1-2dff",
+    "product": "mouse",
+    "quantity": 0
+  },
+  {
+    "request_id": "a6b6fb3e-3364",
+    "product": "monitor",
+    "quantity": 2
+  },
+  {
+    "request_id": "dd4984d4-570d",
+    "product": "laptop",
+    "quantity": -1
+  },
+  {
+    "request_id": "260afd53-aea0",
+    "product": "mouse",
+    "quantity": 9
+  },
+  {
+    "request_id": "ff435174-1241",
+    "product": "mouse",
+    "quantity": 5
+  },
+  {
+    "request_id": "6b1ff5ed-02cc",
+    "product": "monitor",
+    "quantity": 10
+  },
+  {
+    "request_id": "bca51f81-c99a",
+    "product": "printer",
+    "quantity": -2
+  },
+  {
+    "request_id": "0f9bb3b8-be97",
+    "product": "keyboard",
+    "quantity": 4
+  },
+  {
+    "request_id": "bd8e6f35-eb89",
+    "product": "mouse",
+    "quantity": 6
+  },
+  {
+    "request_id": "b2e8ae4f-3e3c",
+    "product": "laptop",
+    "quantity": 6
+  },
+  {
+    "request_id": "5bdccfe0-5220",
+    "product": "keyboard",
+    "quantity": 3
+  },
+  {
+    "request_id": "de2de4ec-3aa6",
+    "product": "laptop",
+    "quantity": 2
+  },
+  {
+    "request_id": "4d30a81c-7ede",
+    "product": "laptop",
+    "quantity": 3
+  },
+  {
+    "request_id": "e78c64cb-353b",
+    "product": "laptop",
+    "quantity": 9
+  },
+  {
+    "request_id": "9c16a3a9-88f9",
+    "product": "printer",
+    "quantity": 10
+  },
+  {
+    "request_id": "ce047bf1-3833",
+    "product": "monitor",
+    "quantity": -2
+  },
+  {
+    "request_id": "9fb09618-4afd",
+    "product": "printer",
+    "quantity": 4
+  },
+  {
+    "request_id": "c74ff2f5-1395",
+    "product": "keyboard",
+    "quantity": 0
+  },
+  {
+    "request_id": "7b7790a7-6c62",
+    "product": "keyboard",
+    "quantity": 4
+  },
+  {
+    "request_id": "f3cd65d5-48bd",
+    "product": "printer",
+    "quantity": 4
+  },
+  {
+    "request_id": "c1e5a024-0e40",
+    "product": "keyboard",
+    "quantity": -1
+  },
+  {
+    "request_id": "6505363a-10d2",
+    "product": "keyboard",
+    "quantity": 5
+  },
+  {
+    "request_id": "fabc7324-531c",
+    "product": "laptop",
+    "quantity": 9
+  },
+  {
+    "request_id": "0fc2f7df-382e",
+    "product": "printer",
+    "quantity": 10
+  },
+  {
+    "request_id": "1d82a458-a3e0",
+    "product": "laptop",
+    "quantity": 7
+  },
+  {
+    "request_id": "a8f05e8a-daf3",
+    "product": "laptop",
+    "quantity": 1
+  },
+  {
+    "request_id": "b3e8ddac-2bf9",
+    "product": "mouse",
+    "quantity": 1
+  },
+  {
+    "request_id": "35238987-7125",
+    "product": "monitor",
+    "quantity": 8
+  },
+  {
+    "request_id": "9d1beb00-7608",
+    "product": "monitor",
+    "quantity": 0
+  },
+  {
+    "request_id": "f662d2f0-3435",
+    "product": "monitor",
+    "quantity": 5
+  },
+  {
+    "request_id": "7992a419-f276",
+    "product": "monitor",
+    "quantity": 1
+  },
+  {
+    "request_id": "52333992-9671",
+    "product": "printer",
+    "quantity": -1
+  },
+  {
+    "request_id": "c5c05658-d05b",
+    "product": "keyboard",
+    "quantity": 6
+  },
+  {
+    "request_id": "accca4f7-b7d0",
+    "product": "laptop",
+    "quantity": 1
+  },
+  {
+    "request_id": "bdc1bc69-e66d",
+    "product": "monitor",
+    "quantity": 9
+  },
+  {
+    "request_id": "3d4125b2-a437",
+    "product": "printer",
+    "quantity": 9
+  },
+  {
+    "request_id": "1358f0c7-23d9",
+    "product": "mouse",
+    "quantity": 2
+  },
+  {
+    "request_id": "8bdaa5b3-4f74",
+    "product": "laptop",
+    "quantity": 4
+  },
+  {
+    "request_id": "30aa1793-1fc3",
+    "product": "keyboard",
+    "quantity": 8
+  },
+  {
+    "request_id": "e07ad12c-424c",
+    "product": "printer",
+    "quantity": 8
+  },
+  {
+    "request_id": "aeb3db9d-5be6",
+    "product": "mouse",
+    "quantity": 2
+  },
+  {
+    "request_id": "5d1b71bf-69f3",
+    "product": "mouse",
+    "quantity": -2
+  },
+  {
+    "request_id": "3f94c829-87d5",
+    "product": "printer",
+    "quantity": -1
+  },
+  {
+    "request_id": "ecc78f62-7367",
+    "product": "laptop",
+    "quantity": -1
+  },
+  {
+    "request_id": "899226ec-4f87",
+    "product": "mouse",
+    "quantity": 10
+  },
+  {
+    "request_id": "797222ab-e587",
+    "product": "mouse",
+    "quantity": -2
+  },
+  {
+    "request_id": "0d8d03ba-a6bd",
+    "product": "laptop",
+    "quantity": 5
+  },
+  {
+    "request_id": "1d0e9a4f-9404",
+    "product": "mouse",
+    "quantity": 5
+  },
+  {
+    "request_id": "1bb22620-c8c6",
+    "product": "mouse",
+    "quantity": 8
+  },
+  {
+    "request_id": "e0379e08-09f2",
+    "product": "laptop",
+    "quantity": 7
+  },
+  {
+    "request_id": "b543abee-1893",
+    "product": "monitor",
+    "quantity": 8
+  },
+  {
+    "request_id": "891fa69b-4fc4",
+    "product": "keyboard",
+    "quantity": 8
+  },
+  {
+    "request_id": "b22f14ea-e1b0",
+    "product": "mouse",
+    "quantity": 0
+  },
+  {
+    "request_id": "e18ab6be-313d",
+    "product": "printer",
+    "quantity": 0
+  },
+  {
+    "request_id": "cb5fdb00-a3d6",
+    "product": "printer",
+    "quantity": 7
+  },
+  {
+    "request_id": "21e5a5ff-60dc",
+    "product": "printer",
+    "quantity": 7
+  }
+]

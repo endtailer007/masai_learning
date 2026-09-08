@@ -1,0 +1,10 @@
+import pandas as pd
+df1 = pd.read_csv("churnguard_data.csv")
+print(df1.shape)
+print(df1.head(5))
+print(df1.info())
+print("Column",  " " *10,"Number of missing values")
+print(df1.isnull().sum())
+print("Number of duplicate rows:", df1[df1.duplicated()].shape[0])
+print(df1['Churn'].value_counts())
+print(df1['Contract'].unique())
